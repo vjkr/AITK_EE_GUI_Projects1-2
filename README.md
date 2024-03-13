@@ -1,1 +1,1 @@
-# AITK_EE_GUI_Projects1-2
+# AITK_EE_Projects1-2
